@@ -11,10 +11,10 @@ npm install --save has-adjacent-sibling-selector
 ## Usage
 
 ```javascript
-var hasAdjacentSiblingSelector = require('has-adjacent-sibling-selector');
+var hasAdjacentSiblingSelector = require('has-adjacent-sibling-selector')
 
-hasAdjacentSiblingSelector('li + li');  // => true
-hasAdjacentSiblingSelector('li > li');  // => false
+hasAdjacentSiblingSelector('li + li')  // => true
+hasAdjacentSiblingSelector('li > li')  // => false
 ```
 
 ## License
