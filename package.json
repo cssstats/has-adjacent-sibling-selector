@@ -1,0 +1,32 @@
+{
+  "name": "has-adjacent-sibling-selector",
+  "description": "Check if a selector string has an adjacent sibling selector.",
+  "author": "John Otander",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnotander/has-adjacent-sibling-selector.git"
+  },
+  "keywords": [
+    "css",
+    "sibling",
+    "adjacent",
+    "selector"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnotander/has-adjacent-sibling-selector/issues"
+  },
+  "homepage": "https://github.com/johnotander/has-adjacent-sibling-selector",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
