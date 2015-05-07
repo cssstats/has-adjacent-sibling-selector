@@ -1,4 +1,4 @@
-# has-adjacent-sibling-selector [![Build Status](https://secure.travis-ci.org/johnotander/has-adjacent-sibling-selector.png?branch=master)](https://travis-ci.org/johnotander/has-adjacent-sibling-selector)
+# has-adjacent-sibling-selector [![Build Status](https://secure.travis-ci.org/cssstats/has-adjacent-sibling-selector.png?branch=master)](https://travis-ci.org/cssstats/has-adjacent-sibling-selector)
 
 Check if a selector string has an adjacent sibling selector.
 
